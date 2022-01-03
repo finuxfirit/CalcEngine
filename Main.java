@@ -1,4 +1,5 @@
-package com.firitcorp.calcengine;
+package xyz;
+import calcengine.MathEquation;
 
 public class Main {
 

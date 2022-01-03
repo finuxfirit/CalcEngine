@@ -1,4 +1,4 @@
-package com.itsfnf.firitfinux.CalcEngine
+package calcengine;
 
 public class MathEquation {
     // --- Version 3: Using classes (no accessors and mutators)
